@@ -8,7 +8,7 @@
   </parent>
   <artifactId>quarkus-project</artifactId>
   <name>Quarkus - Project pom</name>
-  <version>3.21.2-lineaje-01</version>
+  <version>3.21.2</version>
   <packaging>pom</packaging>
   <description>Quarkus - Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM</description>
   <url>https://github.com/quarkusio/quarkus</url>
