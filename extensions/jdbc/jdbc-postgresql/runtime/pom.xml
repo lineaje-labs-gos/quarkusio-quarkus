@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>quarkus-jdbc-postgresql</artifactId>
-    <version>3.21.2-lineaje-01</version>
+    <version>3.21.2</version>
     <name>Quarkus - JDBC - PostgreSQL - Runtime</name>
     <description>Connect to the PostgreSQL database via JDBC</description>
     <dependencies>
